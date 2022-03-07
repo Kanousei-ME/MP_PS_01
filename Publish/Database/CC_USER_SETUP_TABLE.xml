@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<CC_USER>
+   <USER1>
+	<email>andy@gmail.com</email>
+	<name>Andy</name>
+      <company>TutorialsPoint</company>
+      <phone>(011) 123-4567</phone>
+   </USER1>
+	
+   <USER2>
+      <name>Manisha Patil</name>
+      <company>TutorialsPoint</company>
+      <phone>(011) 789-4567</phone>
+   </USER2>
+</contact-info>

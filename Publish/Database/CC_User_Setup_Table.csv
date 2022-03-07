@@ -1,0 +1,4 @@
+,Email,USER_NAME,USER_ID,GENDER,AVATAR_FILENAME,IP_ADDRESS
+0,char1@gmail.com,char1,101,M,char1.fbx,333333
+1,char2@gmail.com,char2,102,M,char2.fbx,44444444
+2,char3@gmail.com,char3,103,F,char3.fbx,555555
